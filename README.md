@@ -13,9 +13,9 @@ For more information on the complete project and results, please consult 738_Pro
 
 **Project Files and Notebooks:**
 
-**CreateDataSets_clean:** generates data batches for training U-net using the given kaggle dataset
-
 **738_Project_Report:** discussion of project goals, methods, results, and analysis
+
+**CreateDataSets_clean:** generates data batches for training U-net using the given kaggle dataset
 
 **GenerateStatisticsMyModels:** Used to generate quantitative metrics for the given U-Net model
 
