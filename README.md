@@ -3,6 +3,7 @@ ECE 738 University of Wisconsin Madison Project, adapting U-Net for Lunar Landsc
 
 Project Goals:
 -Apply U-Net Segmentation Algorithm to Lunar landscape dataset, and compare results with K-means clustering and K-Means shift.
+
 -Perform error analysis exploring different types of segmentation errors and their efficacy. 
 
 Project Implemented Using Kaggle Dataset Here by Roman Pessia: 
