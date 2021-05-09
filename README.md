@@ -21,7 +21,7 @@ For more information on the complete project and results, please consult 738_Pro
 
 **GenerateStatisticsUnsupervisedModels:** Used to generate quantitiatve metrics for the K-means and mean-shift algorithm
 
-**Version3_RunUnet_myModel: **
+**Version3_RunUnet_myModel:**
 
 U-net training model. Trains U-net using the given dataset and saves trained model into json and h5 files. 
 Note the files are too big to be included in the GitHub Repo.
